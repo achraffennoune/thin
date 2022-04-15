@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.thinkingbrii.onltest",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": "The third level comes with a statue holding a lamp in its hand. The game displays a meter next to the statue and is tasked with changing the clothes by increasing the temperature."
+		},
+		{
+			"title": "Guide 2",
+			"description": " A girl is in trouble and she needs your help to bring the shore to her. She is standing on a boat with the support of a stick. You must find a way to solve the puzzle."
+		},
+		{
+			"title": "Guide 3",
+			"description": "The game starts with a tutorial level wherein it highlights the area where you must drag the magnifying glass to reveal the secret. After that, the difficulty level will start to increase and make the gameplay a bit complicated to understand and play. Therefore, we jump in to help you with our Brain Test: Thinking Game All Levels Solutions Guide.  "
+		},
+		{
+			"title": "Guide 4  ",
+			"description": " A beautiful girl is in trouble and she is asking for help. An old man is standing on the bridge trying to harass the girl. To complete Brain Test: Thinking Game Level 5, you have to remove the bridge."
+		},
+		{
+			"title": "Guide 5",
+			"description": "You have a spaceship loaded with a flashlight. Drag the ship across the screen to discover the alien at the left-bottom corner of your screen.  "
+		}
+	]
+}
